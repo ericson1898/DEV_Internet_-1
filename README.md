@@ -5,7 +5,8 @@ Este sitio web es parte del material de apoyo para la materia *Programación par
 
 ## Contenido
 - actividades desarollo de interner 1 
-#* Cómo ver el sitio
+
+## Cómo ver el sitio
 Visita la página del proyecto aquí: [Programación para Windows] (https:/ericson1898.github.1to/DEV_Internet_-1/)
 
 ## Tecnologías utilizadas
