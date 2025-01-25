@@ -1,4 +1,4 @@
-# DEV_Internet_-1
+# DEV_Internet_1
 desarrollo para internet 1
 
 Este sitio web es parte del material de apoyo para la materia *Programación para Windows*. Está alojado en GitHub Pages y contiene recursos interactivos, presentaciones y enlacesa herramientas útiles.
@@ -7,7 +7,7 @@ Este sitio web es parte del material de apoyo para la materia *Programación par
 - actividades desarollo de interner 1 
 
 ## Cómo ver el sitio
-Visita la página del proyecto aquí: [Programación para Windows] (https:/ericson1898.github.1to/DEV_Internet_-1/)
+Visita la página del proyecto aquí: [Programación para Windows] (https://ericson1898.github.io/DEV_Internet_1/)
 
 ## Tecnologías utilizadas
 - *hTHL* para la estructura del sitio.
